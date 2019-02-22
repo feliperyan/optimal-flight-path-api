@@ -3,3 +3,4 @@ road_travel
 __pycache__
 *.pyc
 p_env_simple
+.DS_Store
