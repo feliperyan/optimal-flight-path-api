@@ -3,8 +3,8 @@
     "time_to_compute_in_seconds": 1234.123,
     "total_distance_in_meters": 1234,
     "delivery_order": [
-        {"order": 1, "name": "point 1", "latlon": [151.13120, -33.12310]},
-        {"order": 1, "name": "point 2", "latlon": [151.13120, -33.12310]},
-        {"order": 1, "name": "point 3", "latlon": [151.13120, -33.12310]}
+        {"name": "point 1", "latlon": [151.13120, -33.12310]},
+        {"name": "point 2", "latlon": [151.13120, -33.12310]},
+        {"name": "point 3", "latlon": [151.13120, -33.12310]}
     ]
 }
